@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+} 
+#container {
+    width: 800px;
+    margin: 0 auto;
+    /* display: flex; */
+    border: 5px burlywood solid;
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    background-color: antiquewhite;
+}
+h3{
+    color: chocolate;
+}
+.location{
+    background-color: bisque;
+    border: 3px solid burlywood;
+    width: 20%;
+    height: 80px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+} 
+#locations{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+#activities{
+    border: 3px solid brown;
+}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
